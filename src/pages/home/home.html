@@ -1,0 +1,20 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>Soundboard</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content no-bounce>
+  <ion-slides pager>
+    <ion-slide *ngFor="let page of pages">
+      <ion-grid>
+        <ion-row>
+          <ion-col col-4 *ngFor="let item of page"  (click)="play(item.audio)">
+            <img src="{{item.icon}}" width="200"/>
+            <ion-icon class="play_icon" ios="ios-play" md="md-play"></ion-icon>
+          </ion-col>
+        </ion-row>        
+      </ion-grid>    
+    </ion-slide>    
+  </ion-slides>
+</ion-content>
