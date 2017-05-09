@@ -10,7 +10,7 @@ A soundboard app made in Ionic 3
  
  
  ## App Preview
- <img src="gif-here" alt="Preview">
+ <img src="https://github.com/Alexintosh/ionic3-soundboard/blob/master/preview.gif?raw=true" alt="Preview">
 
  ## File Structure
  
