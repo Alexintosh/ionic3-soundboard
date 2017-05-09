@@ -21,7 +21,7 @@ export class HomePage {
 			{ icon:'assets/animals/puppy-icon.png', audio:'./assets/sounds/dog.mp3'},
 		];
 
-    this.pages = [this.data];
+    this.pages = [this.data, this.data, this.data, this.data];
   }
 
 
