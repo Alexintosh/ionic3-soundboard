@@ -9,8 +9,17 @@ A soundboard app made in Ionic 3
  * Run `ionic serve` in a terminal from the project root.
  
  
- ## App Preview
+## App Preview
  <img src="https://github.com/Alexintosh/ionic3-soundboard/blob/master/preview.gif?raw=true" alt="Preview">
+
+## How can I support the developer?
+- Star the GitHub repo :star:
+- Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
+- Follow me on [Twitter](https://twitter.com/alexintosh) :feet:
+
+## Can I hire you?
+Yes!  Ping me on [Twitter](https://twitter.com/alexintosh) or get in touch by [mail](mailto:alessio.d@gmail.com)
+I will be happy to work with you!
 
  ## File Structure
  
